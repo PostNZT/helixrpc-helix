@@ -1,0 +1,19 @@
+{
+    "name": "postnzt/helixrpc-php",
+    "description": "JSON-RPC Client for Helix that is based on GuzzleHttp",
+    "type": "library",
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": "^6.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0 | ^8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jhune Carlo Trogelio",
+            "email": "jhunecarlo.trogelio@gmail.com"
+        }
+    ]
+}
